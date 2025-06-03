@@ -24,16 +24,6 @@
 
 ---
 
-### 📌 Featured Projects (Suggested)
-
-- 🔄 **Azure Automation Toolkit** – Scripts to automate user onboarding/offboarding in Azure AD.
-- ⚡ **RAG Chatbot with LangChain** – Retrieval-Augmented Generation system for enterprise knowledge base.
-- ☁️ **M365 Infra Monitor** – Python+PowerShell based dashboard for M365 service health.
-- 🤖 **ChatOps with LLMs** – AI assistant for internal IT support powered by LLM APIs.
-- 📦 **PowerShell Scripts Repo** – Collection of reusable infrastructure and automation scripts.
-
----
-
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/risha19993)
