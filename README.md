@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishabh Goel
 
-🚀 Technical Specialist | Python Developer | Azure & Cloud Enthusiast  
+🚀 Senior software Devloper | Python | Azure & Cloud Enthusiast  
 🎯 Focused on Automation • Generative AI • M365 • Hybrid Environments
 
 ---
